@@ -1,4 +1,4 @@
-# Lecture sides on "Quantitative Spatial Economics"
+# Lecture slides on "Quantitative Spatial Economics"
 
 **© Gabriel M. Ahlfeldt**
 
