@@ -23,7 +23,7 @@ You are free to use the content from these slides, provided appropriate credit i
 | 3 | Ahlfeldt & Barr, 2022 I, From stylized to quantitative models | [AB2022](https://github.com/Ahlfeldt/AB2022-toolkit) | 
 | 4 | Ahlfeldt & Barr, 2022 II, Numerical solution algorithms | [AB2022](https://github.com/Ahlfeldt/AB2022-toolkit) |
 | 5 | Discrete choice, Preference heterogeneity (ε) | [ABRS](https://github.com/Ahlfeldt/ABRS-toolkit) [ABRSQOL](https://github.com/Ahlfeldt/ABRSQOL-toolkit) |
-| 6 | Ahlfeldt, Redding, Sturm & Wolf I, The model | [AHS2023](https://github.com/Ahlfeldt/AHS2023-toolkit)
+| 6 | Ahlfeldt, Redding, Sturm & Wolf I, The model | [ARSW2015](https://github.com/Ahlfeldt/ARSW2015-toolkit) |
 | 7 | Ahlfeldt, Redding, Sturm & Wolf II, Quantification | [ARSW2015](https://github.com/Ahlfeldt/ARSW2015-toolkit) |
 | 8 | Ahlfeldt, Redding, Sturm & Wolf III, Counterfactuals | [ARSW2015](https://github.com/Ahlfeldt/ARSW2015-toolkit) |
 | 9 | Redding & Rossi-Hansberg (2017), Quantitative economic geography I | n/a | 
