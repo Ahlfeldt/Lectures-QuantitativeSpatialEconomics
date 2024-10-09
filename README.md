@@ -28,8 +28,8 @@ You are free to use the content from these slides, provided appropriate credit i
 | 8 | Ahlfeldt, Redding, Sturm & Wolf III, Counterfactuals | [ARSW2015](https://github.com/Ahlfeldt/ARSW2015-toolkit) |
 | 9 | Redding & Rossi-Hansberg (2017), Quantitative economic geography I | n/a | 
 | 10 | Redding & Rossi-Hansberg (2017), Quantitative economic geography II | n/a | 
-| 11 | Monte, Redding & Rossi-Hansberg I, Quantification | [MRRH2018](https://github.com/Ahlfeldt/MRRH2018-toolkit) |
-| 12 | Monte, Redding & Rossi-Hansberg II, Counterfactuals | [MRRH2018](https://github.com/Ahlfeldt/MRRH2018-toolkit) |
+| 11 | Monte, Redding & Rossi-Hansberg (2018) I, Quantification | [MRRH2018](https://github.com/Ahlfeldt/MRRH2018-toolkit) |
+| 12 | Monte, Redding & Rossi-Hansberg (2018) II, Counterfactuals | [MRRH2018](https://github.com/Ahlfeldt/MRRH2018-toolkit) |
 
 ## Files and Folders
 
