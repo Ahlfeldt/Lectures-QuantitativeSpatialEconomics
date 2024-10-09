@@ -2,7 +2,7 @@
 
 **© Gabriel M. Ahlfeldt**
 
-Last updated: 2024
+Last updated: 10/2024
 
 ## General remarks
 
