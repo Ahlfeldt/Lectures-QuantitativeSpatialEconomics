@@ -14,6 +14,23 @@ You are free to use the content from these slides, provided appropriate credit i
 
 **Ahlfeldt, Gabriel M. (2024): Lecture slides on "Quantitative Spatial Economics". https://github.com/Ahlfeldt/Lectures-QuantitativeSpatialEconomics** 
 
+## Topics
+
+| Lecture | Content |
+| ------- | ------- |
+| 1 | Rosen-Roback, compensating differentials |
+| 2 | Alonso-Mills-Muth, Monocentric city model |
+| 3 | Ahlfeldt & Barr, 2022 I, From stylized to quantitative models |
+| 4 | Ahlfeldt & Barr, 2022 II, Numerical solution algorithms |
+| 5 | Discrete choice, Preference heterogeneity (ε) |
+| 6 | Ahlfeldt, Redding, Sturm & Wolf I, The model |
+| 7 | Ahlfeldt, Redding, Sturm & Wolf II, Quantification |
+| 8 | Ahlfeldt, Redding, Sturm & Wolf III, Counterfactuals |
+| 9 | Redding & Rossi-Hansberg (2017), Quantitative economic geography I |
+| 10 | Redding & Rossi-Hansberg (2017), Quantitative economic geography II |
+| 11 | Monte, Redding & Rossi-Hansberg I, quantification |
+| 12 | Monte, Redding & Rossi-Hansberg II, counterfactuals |
+
 ## Files and Folders
 
 | Directory | File | Description  | Additional Information |
