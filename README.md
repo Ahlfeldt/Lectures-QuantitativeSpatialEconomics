@@ -16,9 +16,9 @@ You are free to use the content from these slides, provided appropriate credit i
 
 ## Topics
 
-| Lecture | Content |
-| ------- | ------- |
-| 1 | Rosen-Roback, compensating differentials |
+| Lecture | Content | Related toolkit |
+| ------- | ------- | | 
+| 1 | Rosen-Roback, compensating differentials | [Glaeser-Gottlib (2009) toolkit](https://sites.google.com/view/ahlfeldt/webtools/glaeser-gottlieb-2009-toolkit) |
 | 2 | Alonso-Mills-Muth, Monocentric city model |
 | 3 | Ahlfeldt & Barr, 2022 I, From stylized to quantitative models |
 | 4 | Ahlfeldt & Barr, 2022 II, Numerical solution algorithms |
