@@ -18,18 +18,18 @@ You are free to use the content from these slides, provided appropriate credit i
 
 | Lecture | Content | Related toolkit |
 | ------- | ------- | ------- | 
-| 1 | Rosen-Roback, compensating differentials | [Glaeser-Gottlib (2009) toolkit](https://sites.google.com/view/ahlfeldt/webtools/glaeser-gottlieb-2009-toolkit) |
-| 2 | Alonso-Mills-Muth, Monocentric city model |
-| 3 | Ahlfeldt & Barr, 2022 I, From stylized to quantitative models |
-| 4 | Ahlfeldt & Barr, 2022 II, Numerical solution algorithms |
-| 5 | Discrete choice, Preference heterogeneity (ε) |
-| 6 | Ahlfeldt, Redding, Sturm & Wolf I, The model |
-| 7 | Ahlfeldt, Redding, Sturm & Wolf II, Quantification |
-| 8 | Ahlfeldt, Redding, Sturm & Wolf III, Counterfactuals |
-| 9 | Redding & Rossi-Hansberg (2017), Quantitative economic geography I |
-| 10 | Redding & Rossi-Hansberg (2017), Quantitative economic geography II |
-| 11 | Monte, Redding & Rossi-Hansberg I, quantification |
-| 12 | Monte, Redding & Rossi-Hansberg II, counterfactuals |
+| 1 | Rosen-Roback, compensating differentials | [GG2009](https://sites.google.com/view/ahlfeldt/webtools/glaeser-gottlieb-2009-toolkit) |
+| 2 | Alonso-Mills-Muth, Monocentric city model | [AHS2023](https://github.com/Ahlfeldt/AHS2023-toolkit) | 
+| 3 | Ahlfeldt & Barr, 2022 I, From stylized to quantitative models | [AB2022](https://github.com/Ahlfeldt/AB2022-toolkit) | 
+| 4 | Ahlfeldt & Barr, 2022 II, Numerical solution algorithms | [AB2022](https://github.com/Ahlfeldt/AB2022-toolkit) |
+| 5 | Discrete choice, Preference heterogeneity (ε) | [ABRS](https://github.com/Ahlfeldt/ABRS-toolkit) [ABRSQOL](https://github.com/Ahlfeldt/ABRSQOL-toolkit) |
+| 6 | Ahlfeldt, Redding, Sturm & Wolf I, The model | [AHS2023](https://github.com/Ahlfeldt/AHS2023-toolkit)
+| 7 | Ahlfeldt, Redding, Sturm & Wolf II, Quantification | [ARSW2015](https://github.com/Ahlfeldt/ARSW2015-toolkit) |
+| 8 | Ahlfeldt, Redding, Sturm & Wolf III, Counterfactuals | [ARSW2015](https://github.com/Ahlfeldt/ARSW2015-toolkit) |
+| 9 | Redding & Rossi-Hansberg (2017), Quantitative economic geography I | n/a | 
+| 10 | Redding & Rossi-Hansberg (2017), Quantitative economic geography II | n/a | 
+| 11 | Monte, Redding & Rossi-Hansberg I, quantification | [MRRH2018](https://github.com/Ahlfeldt/MRRH2018-toolkit) |
+| 12 | Monte, Redding & Rossi-Hansberg II, counterfactuals | [MRRH2018](https://github.com/Ahlfeldt/MRRH2018-toolkit) |
 
 ## Files and Folders
 
