@@ -18,7 +18,7 @@ You are free to use the content from these slides, provided appropriate credit i
 
 | Lecture | Content | Related toolkit |
 | ------- | ------- | ------- | 
-| 1 | Rosen-Roback, Compensating differentials (in the quantitative Glaeser-Gottlieb (2009) framework | [GG2009](https://sites.google.com/view/ahlfeldt/webtools/glaeser-gottlieb-2009-toolkit) |
+| 1 | Rosen-Roback, Compensating differentials in the quantitative Glaeser-Gottlieb (2009) framework | [GG2009](https://sites.google.com/view/ahlfeldt/webtools/glaeser-gottlieb-2009-toolkit) |
 | 2 | Alonso-Mills-Muth, Monocentric city model | [AHS2023](https://github.com/Ahlfeldt/AHS2023-toolkit) | 
 | 3 | Ahlfeldt & Barr, 2022 I, From stylized to quantitative models | [AB2022](https://github.com/Ahlfeldt/AB2022-toolkit) | 
 | 4 | Ahlfeldt & Barr, 2022 II, Numerical solution algorithms | [AB2022](https://github.com/Ahlfeldt/AB2022-toolkit) |
