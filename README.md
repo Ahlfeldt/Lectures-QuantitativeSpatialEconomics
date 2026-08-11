@@ -2,7 +2,11 @@
 
 **© Gabriel M. Ahlfeldt**
 
-Last updated: 10/2024
+Last updated: 08/2026
+
+## Latest update
+
+August 2026: Updated the lecture-slide PDFs for Topics 1--12 from the current course lecture project.
 
 ## General remarks
 
@@ -12,7 +16,7 @@ These lecture slides are used in the course [Quantitative Spatial Economics](htt
 
 You are free to use the content from these slides, provided appropriate credit is given. When doing so, please cite the slides as:
 
-**Ahlfeldt, Gabriel M. (2024): Lecture slides on "Quantitative Spatial Economics". https://github.com/Ahlfeldt/Lectures-QuantitativeSpatialEconomics** 
+**Ahlfeldt, Gabriel M. (2026): Lecture slides on "Quantitative Spatial Economics". https://github.com/Ahlfeldt/Lectures-QuantitativeSpatialEconomics** 
 
 ## Topics
 
@@ -36,5 +40,5 @@ You are free to use the content from these slides, provided appropriate credit i
 | Directory | File | Description  | Additional Information |
 | --- | --- | --- | --- |
 |  | `Ahlfeldt_-_QSE_codebook.pdf` | Codebook containing definitions of model objects, key equilibrium conditions, and pseudo-code for the central paper covered in the course  | - |
-| `slides` | | Folder slecture slides | -|
-| `slides` | `Ahlfeldt_-_QSE_-_XX.pdf` | Lecture slides on topic XX  | - |
+| `Slides` | | Folder containing lecture slides | -|
+| `Slides` | `Ahlfeldt_-_QSE_-_Topic_XX.pdf` | Lecture slides on Topic XX | - |
